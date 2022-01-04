@@ -4,8 +4,8 @@ author https://github.com/fw-carl
 
 
 loon配置
-http-response ^https?:\/\/app\.lingdu2019\.cn\/api\/my_home\/check_vip script-path=https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/JS/lingdu.js, requires-body=true, timeout=10, tag=零度
-hostname = app.lingdu2019.cn
+http-response ^https?:\/\/appa\.lingdu2019\.cn\/api\/my_home\/check_vip script-path=https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/JS/lingdu.js, requires-body=true, timeout=10, tag=零度
+hostname = apa.lingdu2019.cn
 
 */
 
