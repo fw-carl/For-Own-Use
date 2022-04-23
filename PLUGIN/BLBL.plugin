@@ -1,5 +1,5 @@
 #!name=哔哩哔哩 blackmatrix7
-#!desc=1、blackmatrix7  2、精简  3、去广告
+#!desc=1、精简 2、去广告
 
 [Rule]
 DOMAIN-SUFFIX,cm.bilibili.com,REJECT
