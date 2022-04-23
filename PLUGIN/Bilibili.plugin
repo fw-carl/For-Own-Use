@@ -1,4 +1,5 @@
-# BiliBili去广告
+#!name=哔哩哔哩
+#!desc=1.精简2.去广告
 
 [Rule]
 DOMAIN-SUFFIX,cm.bilibili.com,REJECT
