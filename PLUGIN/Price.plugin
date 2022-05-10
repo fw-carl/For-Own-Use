@@ -1,0 +1,18 @@
+#!name= Historical Price
+#!desc= 京东淘宝历史价格
+#!openUrl=https://github.com/githubdulong/Script
+#!author=githubdulong
+#!icon=https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/icon/price.webp
+
+
+[Script]
+# 京东历史价格
+http-response ^https?:\/\/api\.m\.jd\.com\/client\.action\?functionId=(wareBusiness|serverConfig|basicConfig) requires-body=1,script-path= https://raw.githubusercontent.com/githubdulong/Script/master/jd_price.js, tag=京东比价, img-url=https://github.com/Orz-3/mini/blob/master/Color/jd.png
+
+
+# 淘宝比价
+http-request ^http:\/\/.+\/amdc\/mobileDispatch requires-body=1,script-path= https://raw.githubusercontent.com/githubdulong/Script/master/tb_price.js, tag=淘宝比价1, img-url=https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/icon/tb.webp
+http-response ^https?:\/\/trade-acs\.m\.taobao\.com\/gw\/mtop\.taobao\.detail\.getdetail requires-body=1,script-path= https://raw.githubusercontent.com/githubdulong/Script/master/tb_price.js, tag=淘宝比价2, img-url=https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/icon/tb.webp
+
+[MITM]
+hostname = trade-acs.m.taobao.com,api.m.jd.com
