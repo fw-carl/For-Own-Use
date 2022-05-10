@@ -7,7 +7,7 @@
 
 [Script]
 # 京东历史价格
-http-response ^https?:\/\/api\.m\.jd\.com\/client\.action\?functionId=(wareBusiness|serverConfig|basicConfig) requires-body=1,script-path= https://raw.githubusercontent.com/githubdulong/Script/master/jd_price.js, tag=京东比价, img-url=https://github.com/Orz-3/mini/blob/master/Color/jd.png
+http-response ^https?:\/\/api\.m\.jd\.com\/client\.action\?functionId=(wareBusiness|serverConfig|basicConfig) requires-body=1,script-path= https://raw.githubusercontent.com/githubdulong/Script/master/jd_price.js, tag=京东比价, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png
 
 
 # 淘宝比价
