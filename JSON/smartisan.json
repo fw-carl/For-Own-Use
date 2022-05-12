@@ -3,6 +3,9 @@
 "description": "By Smartisan",
 "icons": [
 {
+"name": "Smartisan",
+"url": "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/chuizi/smartisan.png"
+},{
 "name": "acfun",
 "url": "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/chuizi/acfun.png"
 },{
