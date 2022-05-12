@@ -1,0 +1,190 @@
+{
+"name": "Color+",
+"description": "By Orz-3",
+"icons": [
+{
+"name": "acfun",
+"url": "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/chuizi/acfun.png"
+},{
+"name": "alipay",
+"url": "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/chuizi/alipay.png"
+},{
+"name": "autohome2",
+"url": "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/chuizi/autohome2.png"
+},{
+"name": "baidu",
+"url": "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/chuizi/baidu.png"
+},{
+"name": "baidu_tieba",
+"url": "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/chuizi/baidu_tieba.png"
+},{
+"name": "baidumap",
+"url": "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/chuizi/baidumap.png"
+},{
+"name": "baiduyun",
+"url": "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/chuizi/baiduyun.png"
+},{
+"name": "bilibili",
+"url": "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/chuizi/bilibili.png"
+},{
+"name": "browser",
+"url": "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/chuizi/browser.png"
+},{
+"name": "caipiao163",
+"url": "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/chuizi/caipiao163.png"
+},{
+"name": "calculator",
+"url": "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/chuizi/calculator.png"
+},{
+"name": "calendar",
+"url": "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/chuizi/calendar.png"
+},{
+"name": "camera",
+"url": "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/chuizi/camera.png"
+},{
+"name": "changba",
+"url": "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/chuizi/changba.png"
+},{
+"name": "chrome",
+"url": "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/chuizi/chrome.png"
+},{
+"name": "clock",
+"url": "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/chuizi/clock.png"
+},{
+"name": "colorful_clouds",
+"url": "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/chuizi/colorful_clouds.png"
+},{
+"name": "compass",
+"url": "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/chuizi/compass.png"
+},{
+"name": "contacts",
+"url": "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/chuizi/contacts.png"
+},{
+"name": "coolapk",
+"url": "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/chuizi/coolapk.png"
+},{
+"name": "cs",
+"url": "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/chuizi/cs.png"
+},{
+"name": "dangle",
+"url": "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/chuizi/dangle.png"
+},{
+"name": "didi",
+"url": "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/chuizi/didi.png"
+},{
+"name": "douyu",
+"url": "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/chuizi/douyu.png"
+},{
+"name": "elema",
+"url": "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/chuizi/elema.png"
+},{
+"name": "email",
+"url": "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/chuizi/email.png"
+},{
+"name": "es",
+"url": "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/chuizi/es.png"
+},{
+"name": "files",
+"url": "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/chuizi/files.png"
+},{
+"name": "games",
+"url": "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/chuizi/games.png"
+},{
+"name": "huya",
+"url": "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/chuizi/huya.png"
+},{
+"name": "iqyi",
+"url": "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/chuizi/iqyi.png"
+},{
+"name": "jingdong",
+"url": "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/chuizi/jingdong.png"
+},{
+"name": "kaiyan",
+"url": "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/chuizi/kaiyan.png"
+},{
+"name": "kge",
+"url": "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/chuizi/kge.png"
+},{
+"name": "kugou",
+"url": "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/chuizi/kugou.png"
+},{
+"name": "mangguo",
+"url": "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/chuizi/mangguo.png"
+},{
+"name": "maoyan",
+"url": "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/chuizi/maoyan.png"
+},{
+"name": "meituan",
+"url": "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/chuizi/meituan.png"
+},{
+"name": "miapk",
+"url": "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/chuizi/miapk.png"
+},{
+"name": "mijia",
+"url": "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/chuizi/mijia.png"
+},{
+"name": "mobike",
+"url": "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/chuizi/mobike.png"
+},{
+"name": "moji",
+"url": "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/chuizi/moji.png"
+},{
+"name": "net_ease_news",
+"url": "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/chuizi/net_ease_news.png"
+},{
+"name": "netase_cloud_music",
+"url": "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/chuizi/netase_cloud_music.png"
+},{
+"name": "notes",
+"url": "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/chuizi/notes.png"
+},{
+"name": "nuomi",
+"url": "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/chuizi/nuomi.png"
+},{
+"name": "pixiv",
+"url": "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/chuizi/pixiv.png"
+},{
+"name": "qq",
+"url": "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/chuizi/qq.png"
+},{
+"name": "settings",
+"url": "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/chuizi/settings.png"
+},{
+"name": "taobao",
+"url": "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/chuizi/taobao.png"
+},{
+"name": "tencent_apk",
+"url": "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/chuizi/tencent_apk.png"
+},{
+"name": "tencent_news",
+"url": "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/chuizi/tencent_news.png"
+},{
+"name": "tencent_video",
+"url": "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/chuizi/tencent_video.png"
+},{
+"name": "toutiao",
+"url": "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/chuizi/toutiao.png"
+},{
+"name": "unicom",
+"url": "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/chuizi/unicom.png"
+},{
+"name": "weather",
+"url": "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/chuizi/weather.png"
+},{
+"name": "wechat",
+"url": "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/chuizi/wechat.png"
+},{
+"name": "weibo",
+"url": "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/chuizi/weibo.png"
+},{
+"name": "wps",
+"url": "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/chuizi/wps.png"
+},{
+"name": "xianyu",
+"url": "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/chuizi/xianyu.png"
+},{
+"name": "zhihu",
+"url": "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/chuizi/zhihu.png"
+}
+]
+}
