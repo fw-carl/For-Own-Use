@@ -2,7 +2,6 @@
 #!desc=1、GeoIP查询 / 节点-流媒体可用查询 2、在策略组或者所有节点页面，选择一个节点长按，出现菜单后进行测试
 #!author=Loon0x00
 #!homepage=https://github.com/Loon0x00
-#!icon=https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/icon/sousuo.webp
 
 [Script]
 # > GeoIP查询
