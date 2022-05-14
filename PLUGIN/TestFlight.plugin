@@ -1,7 +1,7 @@
 #!name=TF更新解除区域限
 #!desc=该插件阅仅适用于Loon, 用于更新TestFlight App时, 提示"APP不可用"问题. 解除区域限制.
-#!openUrl=https://github.com/NobyDa/Script
 #!author=NobyDa
+#!homepage=https://github.com/NobyDa/Script
 #!icon=https://raw.githubusercontent.com/Orz-3/mini/master/Color/testflight.png
 
 [Script]
