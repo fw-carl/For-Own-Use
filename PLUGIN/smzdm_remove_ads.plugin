@@ -2,7 +2,6 @@
 #!desc=remove_ads
 #!author=blackmatrix7
 #!homepage=https://github.com/blackmatrix7/ios_rule_script/tree/master/script/smzdm
-#!icon=https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/cz/smzdm.png
 
 [URL Rewrite]
 # 什么值得买_好价详情页去广告
