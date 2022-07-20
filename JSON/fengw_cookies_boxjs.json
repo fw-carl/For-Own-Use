@@ -1,0 +1,93 @@
+{
+    "id": "fengw.app.sub",
+    "name": "数据查看器",
+    "author": "@fengw",
+    "icon": "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png",
+    "repo": "",
+    "apps": [
+
+    
+        {
+            "id": "HHYD_token",
+            "name": "花花阅读 wx",
+            "keys": [
+                "HHYD_token"
+            ],
+            "descs_html": [
+                " 格式: HHYD_token = 'un&token' ",
+                " 账号:换行 分割 ",
+                " 抓取:body 的 un t token 值 "
+            ],
+            "settings": [
+                {
+                    "id": "HHYD_token",
+                    "name": "CK 列表",
+                    "val": "",
+                    "type": "textarea",
+                    "autoGrow": true,
+                    "rows": 8,
+                    "desc": "HHYD_token"
+                }
+            ],
+            "author": "",
+            "repo": "",
+            "script": "",
+            "icons": [
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png",
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png"
+            ]
+        },
+
+        
+
+   
+
+
+  
+
+        {
+            "id": "llcookie",
+            "name": "遛遛它wx小程序",
+            "keys": [
+                "llcookie",
+                "llphonecookie"
+            ],
+            "descs_html": [
+                " 格式: llcookie = 'User-Token' ",
+                " 账号:@ 分割 ",
+                " 抓取:www.chongpar.cn 的 header 的 User-Token 值 "
+            ],
+            "settings": [
+                {
+                    "id": "llphonecookie",
+                    "name": "提现手机号",
+                    "val": " ",
+                    "type": "number",
+                    "desc": "多账户可以体现同一zfb"
+                },
+                {
+                    "id": "llcookie",
+                    "name": "CK 列表",
+                    "val": "",
+                    "type": "textarea",
+                    "autoGrow": true,
+                    "rows": 8,
+                    "desc": "llcookie"
+                }
+            ],
+            "author": "",
+            "repo": "",
+            "script": "",
+            "icons": [
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png",
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png"
+            ]
+        },
+
+
+        
+        
+       
+
+    ]
+}
