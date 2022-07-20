@@ -440,17 +440,17 @@
             "settings": [
                 {
                     "id": "zanstatus",
-                    "name": "当前账号数",
+                    "name": "想要抓取第几个账号的数据就填几",
                     "val": "1",
                     "type": "number",
-                    "desc": "想要抓取第几个账号的数据就填几"
+                    "desc": ""
                 },
                 {
                     "id": "zancount",
-                    "name": "当前账号总数",
+                    "name": "想要跑几个号就填几",
                     "val": "1",
                     "type": "number",
-                    "desc": "想要跑几个号就填几"
+                    "desc": ""
                 }
             ],
             "author": "",
@@ -475,17 +475,17 @@
             "settings": [
                 {
                     "id": "wyyxstatus",
-                    "name": "当前账号数",
+                    "name": "想要抓取第几个账号的数据就填几",
                     "val": "1",
                     "type": "number",
-                    "desc": "想要抓取第几个账号的数据就填几"
+                    "desc": ""
                 },
                 {
                     "id": "wyyxcount",
-                    "name": "当前账号总数",
+                    "name": "想要跑几个号就填几",
                     "val": "1",
                     "type": "number",
-                    "desc": "想要跑几个号就填几"
+                    "desc": ""
                 }
             ],
             "author": "",
@@ -540,17 +540,17 @@
             "settings": [
                 {
                     "id": "dsmcstatus",
-                    "name": "当前账号数",
+                    "name": "想要抓取第几个账号的数据就填几",
                     "val": "1",
                     "type": "number",
-                    "desc": "想要抓取第几个账号的数据就填几"
+                    "desc": ""
                 },
                 {
                     "id": "dsmccount",
-                    "name": "当前账号总数",
+                    "name": "想要跑几个号就填几",
                     "val": "1",
                     "type": "number",
-                    "desc": "想要跑几个号就填几"
+                    "desc": ""
                 }
             ],
             "author": "",
@@ -658,7 +658,7 @@
             "descs_html": [
                 " 格式: ttlcookie = 'userid&openid' ",
                 " 账号: 换行 或 @ 分割 ",
-                " 抓取: https://miniapi.tianwensk.com/miniapp/user/clockin/pay/5 的 openid ",
+                " 抓取: https://miniapi.tianwensk.com/miniapp/user/clockin/pay/5 的 openid 值 ",
                 "       https://miniapi.tianwensk.com 的 userid 值 "
             ],
             "settings": [
@@ -717,8 +717,9 @@
                 "tczs"
             ],
             "descs_html": [
-                " 格式: tczs = '' ",
-                " 账号: 换行 或 @ 分割 "
+                " 格式: tczs = 'body' ",
+                " 账号: 换行 或 @ 分割 ",
+                " 抓取: https://sgame.moxigame.cn/planttree_tc//game/local/logincheck 的 body "
             ],
             "settings": [
                 {
@@ -985,7 +986,7 @@
             "descs_html": [
                 " 格式: pddck = 'pdduid&accesstoken#tubetoken' ",
                 " 账号: @ 分割 ",
-                " 抓取:mobile.yangkeduo.com  "
+                " 抓取: mobile.yangkeduo.com  "
             ],
             "settings": [
                 {
@@ -995,7 +996,7 @@
                     "type": "textarea",
                     "autoGrow": true,
                     "rows": 8,
-                    "desc": "pddck"
+                    "desc": ""
                 }
             ],
             "author": "",
@@ -1106,7 +1107,7 @@
             "descs_html": [
                 " 格式: zycookie = '手机号#密码' ",
                 " 格式: zysigncookie = '&eu-stamp=*****&eu-sign=*****'",
-                " 账号:@ 分割 "
+                " 账号: @ 分割 "
             ],
             "settings": [
                 {
