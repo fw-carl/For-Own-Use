@@ -1,0 +1,1317 @@
+{
+    "id": "fengw.app.sub",
+    "name": "数据查看器",
+    "author": "@fengw",
+    "icon": "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png",
+    "repo": "",
+    "apps": [
+        {
+            "id": "jingjiu_data",
+            "name": "劲友家wx小程序",
+            "keys": [
+                "jingjiu_data"
+            ],
+            "descs_html": [
+                " 变量: jingjiu_data = 'authorization' ",
+                " 账号：换行 或 @ 分割 ",
+                " 抓取：jjw.jingjiu.com 的 authorization 值 "
+            ],
+            "settings": [
+                {
+                    "id": "jingjiu_data",
+                    "name": "cookie 列表",
+                    "val": "",
+                    "type": "textarea",
+                    "autoGrow": true,
+                    "rows": 8,
+                    "desc": "jingjiu_data"
+                }
+            ],
+            "author": "",
+            "repo": "",
+            "script": "",
+            "icons": [
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png",
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png"
+            ]
+        },
+        {
+            "id": "pddck",
+            "name": "拼多多果园wx小程序",
+            "keys": [
+                "pddck"
+            ],
+            "descs_html": [
+                " 格式: pddck = 'pdduid&accesstoken#tubetoken' ",
+                " 账号: @ 分割 ",
+                " 抓取：mobile.yangkeduo.com  "
+            ],
+            "settings": [
+                {
+                    "id": "pddck",
+                    "name": "CK 列表",
+                    "val": "",
+                    "type": "textarea",
+                    "autoGrow": true,
+                    "rows": 8,
+                    "desc": "pddck"
+                }
+            ],
+            "author": "",
+            "repo": "",
+            "script": "",
+            "icons": [
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png",
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png"
+            ]
+        },
+        {
+            "id": "jrttckapp",
+            "name": "今日头条apk",
+            "keys": [
+                "jrttckapp"
+            ],
+            "descs_html": [
+                " 格式: jrttckapp = 'sessionid' ",
+                " 账号：@ 分割 ",
+                " 抓取：toutiaoapi.com 的 Cookie 的 sessionid 值 "
+            ],
+            "settings": [
+                {
+                    "id": "jrttckapp",
+                    "name": "CK 列表",
+                    "val": "",
+                    "type": "textarea",
+                    "autoGrow": true,
+                    "rows": 8,
+                    "desc": "jrttckapp"
+                }
+            ],
+            "author": "",
+            "repo": "",
+            "script": "",
+            "icons": [
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png",
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png"
+            ]
+        },
+        {
+            "id": "HHYD_token",
+            "name": "花花阅读 wx",
+            "keys": [
+                "HHYD_token"
+            ],
+            "descs_html": [
+                " 格式: HHYD_token = 'un&token' ",
+                " 账号：换行 分割 ",
+                " 抓取：body 的 un 和 token 值 "
+            ],
+            "settings": [
+                {
+                    "id": "HHYD_token",
+                    "name": "CK 列表",
+                    "val": "",
+                    "type": "textarea",
+                    "autoGrow": true,
+                    "rows": 8,
+                    "desc": "HHYD_token"
+                }
+            ],
+            "author": "",
+            "repo": "",
+            "script": "",
+            "icons": [
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png",
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png"
+            ]
+        },
+        {
+            "id": "hryy_token",
+            "name": "资金盘",
+            "keys": [
+                "hryy_token"
+            ],
+            "descs_html": [
+                " 格式: hryy_token = 'Authorization' ",
+                " 账号：@ 分割 ",
+                " 抓取：api.huaren118.com 的 Authorization 值"
+            ],
+            "settings": [
+                {
+                    "id": "hryy_token",
+                    "name": "CK 列表",
+                    "val": "",
+                    "type": "textarea",
+                    "autoGrow": true,
+                    "rows": 8,
+                    "desc": "hryy_token"
+                }
+            ],
+            "author": "",
+            "repo": "",
+            "script": "",
+            "icons": [
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png",
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png"
+            ]
+        },
+        {
+            "id": "ttlcookie",
+            "name": "天天乐赚钱wx小程序",
+            "keys": [
+                "ttlcookie"
+            ],
+            "descs_html": [
+                " 格式: ttlcookie = 'userid&openid' ",
+                " 账号：换行 或 @ 分割 ",
+                " 抓取：https://miniapi.tianwensk.com/miniapp/user/clockin/pay/5 的 openid ",
+                "       https://miniapi.tianwensk.com 的 userid 值 "
+            ],
+            "settings": [
+                {
+                    "id": "ttlcookie",
+                    "name": "CK 列表",
+                    "val": "",
+                    "type": "textarea",
+                    "autoGrow": true,
+                    "rows": 8,
+                    "desc": "ttlcookie"
+                }
+            ],
+            "author": "",
+            "repo": "",
+            "script": "",
+            "icons": [
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png",
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png"
+            ]
+        },
+        {
+            "id": "yyskapp",
+            "name": "应用试客apk",
+            "keys": [
+                "yyskapp"
+            ],
+            "descs_html": [
+                " 格式: yyskapp = 'od=aaaaaaaaaa' ",
+                " 账号：@ 分割 ",
+                " 抓取：http://shike.com 的 cookie 的 od 值 "
+            ],
+            "settings": [
+                {
+                    "id": "yyskapp",
+                    "name": "CK 列表",
+                    "val": "",
+                    "type": "textarea",
+                    "autoGrow": true,
+                    "rows": 8,
+                    "desc": "yyskapp"
+                }
+            ],
+            "author": "",
+            "repo": "",
+            "script": "",
+            "icons": [
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png",
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png"
+            ]
+        },
+        {
+            "id": "xjjlbtoken",
+            "name": "湘窖俱乐部wx小程序",
+            "keys": [
+                "xjjlbtoken"
+            ],
+            "descs_html": [
+                " 格式: xjjlbtoken = 'account=xxxxxxx&openId=xxxxxx' ",
+                " 账号：@ 分割 ",
+                " 抓取: club.xiangjiaojiuye.com 的 json文件 "
+            ],
+            "settings": [
+                {
+                    "id": "xjjlbtoken",
+                    "name": "CK 列表",
+                    "val": "",
+                    "type": "textarea",
+                    "autoGrow": true,
+                    "rows": 8,
+                    "desc": "xjjlbtoken"
+                }
+            ],
+            "author": "",
+            "repo": "",
+            "script": "",
+            "icons": [
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png",
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png"
+            ]
+        },
+        {
+            "id": "ddcookie",
+            "name": "抖抖健身",
+            "keys": [
+                "ddcookie"
+            ],
+            "descs_html": [
+                " 格式: ddcookie = 'unionid=123&token=456' ",
+                " 账号：@ 分割 ",
+                " 抓取：www.jvcrvyz.cn "
+            ],
+            "settings": [
+                {
+                    "id": "ddcookie",
+                    "name": "CK 列表",
+                    "val": "",
+                    "type": "textarea",
+                    "autoGrow": true,
+                    "rows": 8,
+                    "desc": "ddcookie"
+                }
+            ],
+            "author": "",
+            "repo": "",
+            "script": "",
+            "icons": [
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png",
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png"
+            ]
+        },
+        {
+            "id": "xyxcookie",
+            "name": "wx小游戏",
+            "keys": [
+                "xyxcookie"
+            ],
+            "descs_html": [
+                " 格式: xyxcookie = '' ",
+                " 账号：@ 分割 ",
+                " 抓取：https://minigame.nagagame.net/cloudData/ver?链接 的 ? 后全部 "
+            ],
+            "settings": [
+                {
+                    "id": "xyxcookie",
+                    "name": "CK 列表",
+                    "val": "",
+                    "type": "textarea",
+                    "autoGrow": true,
+                    "rows": 8,
+                    "desc": "xyxcookie"
+                }
+            ],
+            "author": "",
+            "repo": "",
+            "script": "",
+            "icons": [
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png",
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png"
+            ]
+        },
+        {
+            "id": "qtxck",
+            "name": "青碳行",
+            "keys": [
+                "qtxck"
+            ],
+            "descs_html": [
+                " 格式: qtxck = 'deviceCoding#token' ",
+                " 账号：@ 分割 ",
+                " 抓取：carbon.lcago.cn "
+            ],
+            "settings": [
+                {
+                    "id": "qtxck",
+                    "name": "CK 列表",
+                    "val": "",
+                    "type": "textarea",
+                    "autoGrow": true,
+                    "rows": 8,
+                    "desc": "qtxck"
+                }
+            ],
+            "author": "",
+            "repo": "",
+            "script": "",
+            "icons": [
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png",
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png"
+            ]
+        },
+        {
+            "id": "mt_token",
+            "name": "萌推wx小程序",
+            "keys": [
+                "mt_token"
+            ],
+            "descs_html": [
+                " 格式: mt_token = 'X-Token' ",
+                " 账号：@ 分割 ",
+                " 抓取：api.mengtuiapp.com 的 header 的 X-Token 值 "
+            ],
+            "settings": [
+                {
+                    "id": "mt_token",
+                    "name": "CK 列表",
+                    "val": "",
+                    "type": "textarea",
+                    "autoGrow": true,
+                    "rows": 8,
+                    "desc": "mt_token"
+                }
+            ],
+            "author": "",
+            "repo": "",
+            "script": "",
+            "icons": [
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png",
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png"
+            ]
+        },
+        {
+            "id": "mhcookie",
+            "name": "全面漫画",
+            "keys": [
+                "mhcookie"
+            ],
+            "descs_html": [
+                "ios 全面漫画 apk 全免漫画",
+                " 格式: mhcookie = 'access-token' ",
+                " 账号：换行 分割 ",
+                " 抓取： task.3456mh.com 的 access-token 值 "
+            ],
+            "settings": [
+                {
+                    "id": "mhcookie",
+                    "name": "CK 列表",
+                    "val": "",
+                    "type": "textarea",
+                    "autoGrow": true,
+                    "rows": 8,
+                    "desc": "mhcookie"
+                }
+            ],
+            "author": "",
+            "repo": "",
+            "script": "",
+            "icons": [
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png",
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png"
+            ]
+        },
+        {
+            "id": "llcookie",
+            "name": "遛遛它wx小程序",
+            "keys": [
+                "llcookie",
+                "llphonecookie"
+            ],
+            "descs_html": [
+                " 格式: llcookie = 'User-Token' ",
+                " 账号：@ 分割 ",
+                " 抓取：www.chongpar.cn 的 header 的 User-Token 值 "
+            ],
+            "settings": [
+                {
+                    "id": "llphonecookie",
+                    "name": "提现手机号",
+                    "val": " ",
+                    "type": "number",
+                    "desc": "多账户可以体现同一zfb"
+                },
+                {
+                    "id": "llcookie",
+                    "name": "CK 列表",
+                    "val": "",
+                    "type": "textarea",
+                    "autoGrow": true,
+                    "rows": 8,
+                    "desc": "llcookie"
+                }
+            ],
+            "author": "",
+            "repo": "",
+            "script": "",
+            "icons": [
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png",
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png"
+            ]
+        },
+        {
+            "id": "zlcookie",
+            "name": "走路赚wx小程序",
+            "keys": [
+                "zlcookie"
+            ],
+            "descs_html": [
+                " 格式: zlcookie = 'token' ",
+                " 账号：换行 分割 ",
+                " 抓取：oto.yunw2.cn 链接的 token 值 "
+            ],
+            "settings": [
+                {
+                    "id": "zlcookie",
+                    "name": "CK 列表",
+                    "val": "",
+                    "type": "textarea",
+                    "autoGrow": true,
+                    "rows": 8,
+                    "desc": "zlcookie"
+                }
+            ],
+            "author": "",
+            "repo": "",
+            "script": "",
+            "icons": [
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png",
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png"
+            ]
+        },
+        {
+            "id": "zdcookie",
+            "name": "赚点是点zfb小程序",
+            "keys": [
+                "zdcookie"
+            ],
+            "descs_html": [
+                " 格式: zdcookie = 'token#userid' ",
+                " 账号：@ 分割 ",
+                " 抓取：https://json.dd-gz.com/ 链接中的 token 和 userid 值 "
+            ],
+            "settings": [
+                {
+                    "id": "zdcookie",
+                    "name": "CK 列表",
+                    "val": "",
+                    "type": "textarea",
+                    "autoGrow": true,
+                    "rows": 8,
+                    "desc": "zdcookie"
+                }
+            ],
+            "author": "",
+            "repo": "",
+            "script": "",
+            "icons": [
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png",
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png"
+            ]
+        },
+        {
+            "id": "zycookie",
+            "name": "自由之刃",
+            "keys": [
+                "zycookie",
+                "zysigncookie"
+            ],
+            "descs_html": [
+                " 格式: zycookie = '手机号#密码' ",
+                " 格式: zysigncookie = '&eu-stamp=*****&eu-sign=*****'",
+                " 账号：@ 分割 "
+            ],
+            "settings": [
+                {
+                    "id": "zycookie",
+                    "name": "CK 列表",
+                    "val": "",
+                    "type": "textarea",
+                    "autoGrow": true,
+                    "rows": 8,
+                    "desc": "zycookie"
+                },
+                {
+                    "id": "zysigncookie",
+                    "name": "CK 列表",
+                    "val": "",
+                    "type": "textarea",
+                    "autoGrow": true,
+                    "rows": 8,
+                    "desc": "zysigncookie"
+                }
+            ],
+            "author": "",
+            "repo": "",
+            "script": "",
+            "icons": [
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png",
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png"
+            ]
+        },
+        {
+            "id": "ksjsb_data",
+            "name": "快手极速版",
+            "keys": [
+                "ksjsb_data"
+            ],
+            "descs_html": [
+                " 格式: ksjsb_data = 'xxxxx' ",
+                " 账号：@ 分割 ",
+                " 抓取：完整cookie "
+            ],
+            "settings": [
+                {
+                    "id": "ksjsb_data",
+                    "name": "CK 列表",
+                    "val": "",
+                    "type": "textarea",
+                    "autoGrow": true,
+                    "rows": 8,
+                    "desc": "ksjsb_data"
+                }
+            ],
+            "author": "",
+            "repo": "",
+            "script": "",
+            "icons": [
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png",
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png"
+            ]
+        },
+        {
+            "id": "zssqCookie",
+            "name": "追书神器",
+            "keys": [
+                "zssqCookie"
+            ],
+            "descs_html": [
+                " 格式: zssqCookie = 'token' ",
+                " 账号：换行 或 @ 分割 ",
+                " 抓取：*.zhuishushenqi.com 的 url 的 token 值 "
+            ],
+            "settings": [
+                {
+                    "id": "zssqCookie",
+                    "name": "CK 列表",
+                    "val": "",
+                    "type": "textarea",
+                    "autoGrow": true,
+                    "rows": 8,
+                    "desc": "zssqCookie"
+                }
+            ],
+            "author": "",
+            "repo": "",
+            "script": "",
+            "icons": [
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png",
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png"
+            ]
+        },
+        {
+            "id": "jieda_data",
+            "name": "捷达",
+            "keys": [
+                "jieda_data"
+            ],
+            "descs_html": [
+                " 格式:  jieda_data = 'token' ",
+                " 账号：换行 或 @ 分割 ",
+                " 抓取：首页红包 service-yy.jconnect.faw-vw.com 的 token 值 "
+            ],
+            "settings": [
+                {
+                    "id": "jieda_data",
+                    "name": "CK 列表",
+                    "val": "",
+                    "type": "textarea",
+                    "autoGrow": true,
+                    "rows": 8,
+                    "desc": "jieda_data"
+                }
+            ],
+            "author": "",
+            "repo": "",
+            "script": "",
+            "icons": [
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png",
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png"
+            ]
+        },
+        {
+            "id": "sytt_data",
+            "name": "十堰头条",
+            "keys": [
+                "sytt_data"
+            ],
+            "descs_html": [
+                " 格式: sytt_data='手机号 & 密码' ",
+                " 账号：换行 或 @ 分割 "
+            ],
+            "settings": [
+                {
+                    "id": "sytt_data",
+                    "name": "CK 列表",
+                    "val": "",
+                    "type": "textarea",
+                    "autoGrow": true,
+                    "rows": 8,
+                    "desc": "sytt_data"
+                }
+            ],
+            "author": "",
+            "repo": "",
+            "script": "",
+            "icons": [
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png",
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png"
+            ]
+        },
+        {
+            "id": "jrttjsb_data",
+            "name": "今日头条极速版",
+            "keys": [
+                "jrttjsb_data"
+            ],
+            "descs_html": [
+                " 格式:  jrttjsb_data = 'cookie' ",
+                " 账号：换行 或 @ 分割 ",
+                " 抓取：完整cookie 或 ck 的 sessionid_ss 值 "
+            ],
+            "settings": [
+                {
+                    "id": "jrttjsb_data",
+                    "name": "CK 列表",
+                    "val": "",
+                    "type": "textarea",
+                    "autoGrow": true,
+                    "rows": 8,
+                    "desc": "jrttjsb_data"
+                }
+            ],
+            "author": "",
+            "repo": "",
+            "script": "",
+            "icons": [
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png",
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png"
+            ]
+        },
+        {
+            "id": "qckf_data",
+            "name": "雀巢咖啡wx小程序",
+            "keys": [
+                "qckf_data"
+            ],
+            "descs_html": [
+                " 格式: qckf_data = 'openid & unionid' ",
+                " 账号：换行 或 @ 分割 ",
+                " 抓取：coffeefarm.shheywow.com 的 body 的 openid 和 unionid 值 "
+            ],
+            "settings": [
+                {
+                    "id": "qckf_data",
+                    "name": "CK 列表",
+                    "val": "",
+                    "type": "textarea",
+                    "autoGrow": true,
+                    "rows": 8,
+                    "desc": "qckf_data"
+                }
+            ],
+            "author": "",
+            "repo": "",
+            "script": "",
+            "icons": [
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png",
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png"
+            ]
+        },
+        {
+            "id": "wyyx_app_data",
+            "name": "网易严选",
+            "keys": [
+                "wyyx_app_data"
+            ],
+            "descs_html": [
+                " 格式: wyyx_app_data = 'cookie' ",
+                " 账号：换行 或 @ 分割 ",
+                " 抓取：act.you.163.com 的 cookie 值 "
+            ],
+            "settings": [
+                {
+                    "id": "wyyx_app_data",
+                    "name": "CK 列表",
+                    "val": "",
+                    "type": "textarea",
+                    "autoGrow": true,
+                    "rows": 8,
+                    "desc": "wyyx_app_data"
+                }
+            ],
+            "author": "",
+            "repo": "",
+            "script": "",
+            "icons": [
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png",
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png"
+            ]
+        },
+        {
+            "id": "xtwly_data",
+            "name": "新天威旅游wx小程序",
+            "keys": [
+                "xtwly_data"
+            ],
+            "descs_html": [
+                " 格式: xtwly_data = 'user-login-token' ",
+                " 账号：换行 或 @ 分割 ",
+                " 抓取：www.xtwtour.com 的 user-login-token 值 "
+            ],
+            "settings": [
+                {
+                    "id": "xtwly_data",
+                    "name": "CK 列表",
+                    "val": "",
+                    "type": "textarea",
+                    "autoGrow": true,
+                    "rows": 8,
+                    "desc": "xtwly_data"
+                }
+            ],
+            "author": "",
+            "repo": "",
+            "script": "",
+            "icons": [
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png",
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png"
+            ]
+        },
+        {
+            "id": "tpyqcmax_data",
+            "name": "太平洋汽车MAX wx小程序",
+            "keys": [
+                "tpyqcmax_data"
+            ],
+            "descs_html": [
+                " 格式: tpyqcmax_data = 'lottery_xcx_token' ",
+                " 账号：换行 或 @ 分割 ",
+                " 抓取：qdact-api.pcauto.com.cn 的 lottery_xcx_token 值 "
+            ],
+            "settings": [
+                {
+                    "id": "tpyqcmax_data",
+                    "name": "CK 列表",
+                    "val": "",
+                    "type": "textarea",
+                    "autoGrow": true,
+                    "rows": 8,
+                    "desc": "tpyqcmax_data"
+                }
+            ],
+            "author": "",
+            "repo": "",
+            "script": "",
+            "icons": [
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png",
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png"
+            ]
+        },
+        {
+            "id": "lbg_data",
+            "name": "衡水老白干会员俱乐部wx小程序",
+            "keys": [
+                "lbg_data"
+            ],
+            "descs_html": [
+                " 格式: lbg_data = ' loginusertokenn' ",
+                " 账号：换行 或 @ 分割 ",
+                " 抓取：bwp.67lbg.com 的 header 的 loginusertokenn 值 "
+            ],
+            "settings": [
+                {
+                    "id": "lbg_data",
+                    "name": "CK 列表",
+                    "val": "",
+                    "type": "textarea",
+                    "autoGrow": true,
+                    "rows": 8,
+                    "desc": "lbg_data"
+                }
+            ],
+            "author": "",
+            "repo": "",
+            "script": "",
+            "icons": [
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png",
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png"
+            ]
+        },
+        {
+            "id": "yanghe_data",
+            "name": "洋河会员中心wx小程序",
+            "keys": [
+                "yanghe_data"
+            ],
+            "descs_html": [
+                " 格式: yanghe_data = ' memberid & authorization' ",
+                " 账号：换行 或 @ 分割 ",
+                " 抓取：user.chinayanghe.com 的 memberid 和 authorization 值 "
+            ],
+            "settings": [
+                {
+                    "id": "yanghe_data",
+                    "name": "CK 列表",
+                    "val": "",
+                    "type": "textarea",
+                    "autoGrow": true,
+                    "rows": 8,
+                    "desc": "yanghe_data"
+                }
+            ],
+            "author": "",
+            "repo": "",
+            "script": "",
+            "icons": [
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png",
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png"
+            ]
+        },
+        {
+            "id": "jsb_data",
+            "name": "杰士邦wx小程序",
+            "keys": [
+                "jsb_data"
+            ],
+            "descs_html": [
+                " 格式: jsb_data = ' access-token' ",
+                " 账号：换行 或 @ 分割 ",
+                " 抓取：m.jissbon.com 的 header 的 access-token 值 "
+            ],
+            "settings": [
+                {
+                    "id": "jsb_data",
+                    "name": "CK 列表",
+                    "val": "",
+                    "type": "textarea",
+                    "autoGrow": true,
+                    "rows": 8,
+                    "desc": "jsb_data"
+                }
+            ],
+            "author": "",
+            "repo": "",
+            "script": "",
+            "icons": [
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png",
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png"
+            ]
+        },
+        {
+            "id": "zds_data",
+            "name": "周大生wx小程序",
+            "keys": [
+                "zds_data"
+            ],
+            "descs_html": [
+                " 格式: zds_data = 'authorization' ",
+                " 账号：换行 或 @ 分割 "
+            ],
+            "settings": [
+                {
+                    "id": "zds_data",
+                    "name": "CK 列表",
+                    "val": "",
+                    "type": "textarea",
+                    "autoGrow": true,
+                    "rows": 8,
+                    "desc": "zds_data"
+                }
+            ],
+            "author": "",
+            "repo": "",
+            "script": "",
+            "icons": [
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png",
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png"
+            ]
+        },
+        {
+            "id": "xybc_data",
+            "name": "相宜本草wx小程序",
+            "keys": [
+                "xybc_data"
+            ],
+            "descs_html": [
+                " 格式: xybc_data = 'ut' ",
+                " 账号：换行 或 @ 分割 ",
+                " 抓取：crm.inoherb.com 的 cokkie 的 ut 值 "
+            ],
+            "settings": [
+                {
+                    "id": "xybc_data",
+                    "name": "CK 列表",
+                    "val": "",
+                    "type": "textarea",
+                    "autoGrow": true,
+                    "rows": 8,
+                    "desc": "xybc_data"
+                }
+            ],
+            "author": "",
+            "repo": "",
+            "script": "",
+            "icons": [
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png",
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png"
+            ]
+        },
+        {
+            "id": "jingjiu_data",
+            "name": "劲友家wx小程序",
+            "keys": [
+                "jingjiu_data"
+            ],
+            "descs_html": [
+                " 格式: jingjiu_data=' authorization' ",
+                " 账号：换行 或 @ 分割 ",
+                " 抓取：jjw.jingjiu.com 的 authorization 值 "
+            ],
+            "settings": [
+                {
+                    "id": "jingjiu_data",
+                    "name": "CK 列表",
+                    "val": "",
+                    "type": "textarea",
+                    "autoGrow": true,
+                    "rows": 8,
+                    "desc": "jingjiu_data"
+                }
+            ],
+            "author": "",
+            "repo": "",
+            "script": "",
+            "icons": [
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png",
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png"
+            ]
+        },
+        {
+            "id": "变量",
+            "name": "名称",
+            "keys": [
+                "变量"
+            ],
+            "descs_html": [
+                " 格式: 000 = '000' ",
+                " 账号：换行 或 @ 分割 ",
+                " 抓取：000 "
+            ],
+            "settings": [
+                {
+                    "id": "变量",
+                    "name": "CK 列表",
+                    "val": "",
+                    "type": "textarea",
+                    "autoGrow": true,
+                    "rows": 8,
+                    "desc": "变量"
+                }
+            ],
+            "author": "",
+            "repo": "",
+            "script": "",
+            "icons": [
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png",
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png"
+            ]
+        },
+        {
+            "id": "变量",
+            "name": "名称",
+            "keys": [
+                "变量"
+            ],
+            "descs_html": [
+                " 格式: 000 = '000' ",
+                " 账号：换行 或 @ 分割 ",
+                " 抓取：000 "
+            ],
+            "settings": [
+                {
+                    "id": "变量",
+                    "name": "CK 列表",
+                    "val": "",
+                    "type": "textarea",
+                    "autoGrow": true,
+                    "rows": 8,
+                    "desc": "变量"
+                }
+            ],
+            "author": "",
+            "repo": "",
+            "script": "",
+            "icons": [
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png",
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png"
+            ]
+        },
+        {
+            "id": "变量",
+            "name": "名称",
+            "keys": [
+                "变量"
+            ],
+            "descs_html": [
+                " 格式: 000 = '000' ",
+                " 账号：换行 或 @ 分割 ",
+                " 抓取：000 "
+            ],
+            "settings": [
+                {
+                    "id": "变量",
+                    "name": "CK 列表",
+                    "val": "",
+                    "type": "textarea",
+                    "autoGrow": true,
+                    "rows": 8,
+                    "desc": "变量"
+                }
+            ],
+            "author": "",
+            "repo": "",
+            "script": "",
+            "icons": [
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png",
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png"
+            ]
+        },
+        {
+            "id": "变量",
+            "name": "名称",
+            "keys": [
+                "变量"
+            ],
+            "descs_html": [
+                " 格式: 000 = '000' ",
+                " 账号：换行 或 @ 分割 ",
+                " 抓取：000 "
+            ],
+            "settings": [
+                {
+                    "id": "变量",
+                    "name": "CK 列表",
+                    "val": "",
+                    "type": "textarea",
+                    "autoGrow": true,
+                    "rows": 8,
+                    "desc": "变量"
+                }
+            ],
+            "author": "",
+            "repo": "",
+            "script": "",
+            "icons": [
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png",
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png"
+            ]
+        },
+        {
+            "id": "变量",
+            "name": "名称",
+            "keys": [
+                "变量"
+            ],
+            "descs_html": [
+                " 格式: 000 = '000' ",
+                " 账号：换行 或 @ 分割 ",
+                " 抓取：000 "
+            ],
+            "settings": [
+                {
+                    "id": "变量",
+                    "name": "CK 列表",
+                    "val": "",
+                    "type": "textarea",
+                    "autoGrow": true,
+                    "rows": 8,
+                    "desc": "变量"
+                }
+            ],
+            "author": "",
+            "repo": "",
+            "script": "",
+            "icons": [
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png",
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png"
+            ]
+        },
+        {
+            "id": "变量",
+            "name": "名称",
+            "keys": [
+                "变量"
+            ],
+            "descs_html": [
+                " 格式: 000 = '000' ",
+                " 账号：换行 或 @ 分割 ",
+                " 抓取：000 "
+            ],
+            "settings": [
+                {
+                    "id": "变量",
+                    "name": "CK 列表",
+                    "val": "",
+                    "type": "textarea",
+                    "autoGrow": true,
+                    "rows": 8,
+                    "desc": "变量"
+                }
+            ],
+            "author": "",
+            "repo": "",
+            "script": "",
+            "icons": [
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png",
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png"
+            ]
+        },
+        {
+            "id": "变量",
+            "name": "名称",
+            "keys": [
+                "变量"
+            ],
+            "descs_html": [
+                " 格式: 000 = '000' ",
+                " 账号：换行 或 @ 分割 ",
+                " 抓取：000 "
+            ],
+            "settings": [
+                {
+                    "id": "变量",
+                    "name": "CK 列表",
+                    "val": "",
+                    "type": "textarea",
+                    "autoGrow": true,
+                    "rows": 8,
+                    "desc": "变量"
+                }
+            ],
+            "author": "",
+            "repo": "",
+            "script": "",
+            "icons": [
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png",
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png"
+            ]
+        },
+        {
+            "id": "变量",
+            "name": "名称",
+            "keys": [
+                "变量"
+            ],
+            "descs_html": [
+                " 格式: 000 = '000' ",
+                " 账号：换行 或 @ 分割 ",
+                " 抓取：000 "
+            ],
+            "settings": [
+                {
+                    "id": "变量",
+                    "name": "CK 列表",
+                    "val": "",
+                    "type": "textarea",
+                    "autoGrow": true,
+                    "rows": 8,
+                    "desc": "变量"
+                }
+            ],
+            "author": "",
+            "repo": "",
+            "script": "",
+            "icons": [
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png",
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png"
+            ]
+        },
+        {
+            "id": "变量",
+            "name": "名称",
+            "keys": [
+                "变量"
+            ],
+            "descs_html": [
+                " 格式: 000 = '000' ",
+                " 账号：换行 或 @ 分割 ",
+                " 抓取：000 "
+            ],
+            "settings": [
+                {
+                    "id": "变量",
+                    "name": "CK 列表",
+                    "val": "",
+                    "type": "textarea",
+                    "autoGrow": true,
+                    "rows": 8,
+                    "desc": "变量"
+                }
+            ],
+            "author": "",
+            "repo": "",
+            "script": "",
+            "icons": [
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png",
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png"
+            ]
+        },
+        {
+            "id": "变量",
+            "name": "名称",
+            "keys": [
+                "变量"
+            ],
+            "descs_html": [
+                " 格式: 000 = '000' ",
+                " 账号：换行 或 @ 分割 ",
+                " 抓取：000 "
+            ],
+            "settings": [
+                {
+                    "id": "变量",
+                    "name": "CK 列表",
+                    "val": "",
+                    "type": "textarea",
+                    "autoGrow": true,
+                    "rows": 8,
+                    "desc": "变量"
+                }
+            ],
+            "author": "",
+            "repo": "",
+            "script": "",
+            "icons": [
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png",
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png"
+            ]
+        },
+        {
+            "id": "变量",
+            "name": "名称",
+            "keys": [
+                "变量"
+            ],
+            "descs_html": [
+                " 格式: 000 = '000' ",
+                " 账号：换行 或 @ 分割 ",
+                " 抓取：000 "
+            ],
+            "settings": [
+                {
+                    "id": "变量",
+                    "name": "CK 列表",
+                    "val": "",
+                    "type": "textarea",
+                    "autoGrow": true,
+                    "rows": 8,
+                    "desc": "变量"
+                }
+            ],
+            "author": "",
+            "repo": "",
+            "script": "",
+            "icons": [
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png",
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png"
+            ]
+        }
+    ]
+}
