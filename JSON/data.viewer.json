@@ -1,0 +1,370 @@
+{
+    "id": "fengw.app.sub",
+    "name": "数据查看器",
+    "author": "@fengw",
+    "icon": "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png",
+    "repo": "",
+    "apps": [
+        {
+            "id": "jingjiu_data",
+            "name": "劲友家wx小程序",
+            "keys": [
+                "jingjiu_data"
+            ],
+            "descs_html": [
+                " 变量格式: jingjiu_data=' authorization ' ",
+                " 多账号： 换行 或 @ 分割 ",
+                " 抓取jjw.jingjiu.com域名下 authorization 的值 "
+            ],
+            "settings": [
+                {
+                    "id": "jingjiu_data",
+                    "name": "cookie 列表",
+                    "val": "",
+                    "type": "textarea",
+                    "autoGrow": true,
+                    "rows": 8,
+                    "desc": "jingjiu_data"
+                }
+            ],
+            "author": "",
+            "repo": "",
+            "script": "",
+            "icons": [
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png",
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png"
+            ]
+        },
+        {
+            "id": "pddck",
+            "name": "拼多多果园wx小程序",
+            "keys": [
+                "pddck"
+            ],
+            "descs_html": [
+                " 变量格式: pddck = 'pdduid&accesstoken#tubetoken' ",
+                " 多 账 号: @ 分割 ",
+                " 抓取 mobile.yangkeduo.com  "
+            ],
+            "settings": [
+                {
+                    "id": "pddck",
+                    "name": "CK 列表",
+                    "val": "",
+                    "type": "textarea",
+                    "autoGrow": true,
+                    "rows": 8,
+                    "desc": "pddck"
+                }
+            ],
+            "author": "",
+            "repo": "",
+            "script": "",
+            "icons": [
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png",
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png"
+            ]
+        },
+        {
+            "id": "jrttckapp",
+            "name": "今日头条apk",
+            "keys": [
+                "jrttckapp"
+            ],
+            "descs_html": [
+                " 变量格式: jrttckapp = 'sessionid' ",
+                " 多 账 号：  @ 分割 ",
+                " 抓取 toutiaoapi.com Cookie里的 sessionid 值 "
+            ],
+            "settings": [
+                {
+                    "id": "jrttckapp",
+                    "name": "CK 列表",
+                    "val": "",
+                    "type": "textarea",
+                    "autoGrow": true,
+                    "rows": 8,
+                    "desc": "jrttckapp"
+                }
+            ],
+            "author": "",
+            "repo": "",
+            "script": "",
+            "icons": [
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png",
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png"
+            ]
+        },
+        {
+            "id": "HHYD_token",
+            "name": "花花阅读 wx",
+            "keys": [
+                "HHYD_token"
+            ],
+            "descs_html": [
+                " 变量格式: HHYD_token = 'un&token' ",
+                " 多 账 号： 换行 分割 ",
+                " 抓取 body 里的  un 和 token "
+            ],
+            "settings": [
+                {
+                    "id": "HHYD_token",
+                    "name": "CK 列表",
+                    "val": "",
+                    "type": "textarea",
+                    "autoGrow": true,
+                    "rows": 8,
+                    "desc": "HHYD_token"
+                }
+            ],
+            "author": "",
+            "repo": "",
+            "script": "",
+            "icons": [
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png",
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png"
+            ]
+        },
+        {
+            "id": "hryy_token",
+            "name": "资金盘",
+            "keys": [
+                "hryy_token"
+            ],
+            "descs_html": [
+                " 变量格式: hryy_token= 'Authorization' ",
+                " 多 账 号：  @ 分割 ",
+                " 抓取 api.huaren118.com 的 Authorization 值"
+            ],
+            "settings": [
+                {
+                    "id": "hryy_token",
+                    "name": "CK 列表",
+                    "val": "",
+                    "type": "textarea",
+                    "autoGrow": true,
+                    "rows": 8,
+                    "desc": "hryy_token"
+                }
+            ],
+            "author": "",
+            "repo": "",
+            "script": "",
+            "icons": [
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png",
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png"
+            ]
+        },
+        {
+            "id": "ttlcookie",
+            "name": "天天乐赚钱wx小程序",
+            "keys": [
+                "ttlcookie"
+            ],
+            "descs_html": [
+                " 变量格式: ttlcookie='userid&openid' ",
+                " 多 账 号： 换行 或 @ 分割 ",
+                " 抓取 https://miniapi.tianwensk.com/miniapp/user/clockin/pay/5 的  openid ",
+                " 抓取 https://miniapi.tianwensk.com 的  userid "
+            ],
+            "settings": [
+                {
+                    "id": "ttlcookie",
+                    "name": "CK 列表",
+                    "val": "",
+                    "type": "textarea",
+                    "autoGrow": true,
+                    "rows": 8,
+                    "desc": "ttlcookie"
+                }
+            ],
+            "author": "",
+            "repo": "",
+            "script": "",
+            "icons": [
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png",
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png"
+            ]
+        },
+        {
+            "id": "yyskapp",
+            "name": "应用试客apk",
+            "keys": [
+                "yyskapp"
+            ],
+            "descs_html": [
+                " 变量格式: yyskapp = 'od=aaaaaaaaaa' ",
+                " 多 账 号：  @ 分割 ",
+                " 抓取 http://shike.com cookie 里的 od 值 "
+            ],
+            "settings": [
+                {
+                    "id": "yyskapp",
+                    "name": "CK 列表",
+                    "val": "",
+                    "type": "textarea",
+                    "autoGrow": true,
+                    "rows": 8,
+                    "desc": "yyskapp"
+                }
+            ],
+            "author": "",
+            "repo": "",
+            "script": "",
+            "icons": [
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png",
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png"
+            ]
+        },
+        {
+            "id": "xjjlbtoken",
+            "name": "湘窖俱乐部wx小程序",
+            "keys": [
+                "xjjlbtoken"
+            ],
+            "descs_html": [
+                " 变量格式: xjjlbtoken = 'account=xxxxxxx&openId=xxxxxx' ",
+                " 多 账 号：  @ 分割 ",
+                " 抓取  club.xiangjiaojiuye.com  json文件 "
+            ],
+            "settings": [
+                {
+                    "id": "xjjlbtoken",
+                    "name": "CK 列表",
+                    "val": "",
+                    "type": "textarea",
+                    "autoGrow": true,
+                    "rows": 8,
+                    "desc": "xjjlbtoken"
+                }
+            ],
+            "author": "",
+            "repo": "",
+            "script": "",
+            "icons": [
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png",
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png"
+            ]
+        },
+        {
+            "id": "ddcookie",
+            "name": "抖抖健身",
+            "keys": [
+                "ddcookie"
+            ],
+            "descs_html": [
+                " 变量格式: ddcookie = 'unionid=123&token=456' ",
+                " 多 账 号： @ 分割 ",
+                " 抓取 www.jvcrvyz.cn "
+            ],
+            "settings": [
+                {
+                    "id": "ddcookie",
+                    "name": "CK 列表",
+                    "val": "",
+                    "type": "textarea",
+                    "autoGrow": true,
+                    "rows": 8,
+                    "desc": "ddcookie"
+                }
+            ],
+            "author": "",
+            "repo": "",
+            "script": "",
+            "icons": [
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png",
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png"
+            ]
+        },
+        {
+            "id": "xyxcookie",
+            "name": "wx小游戏",
+            "keys": [
+                "xyxcookie"
+            ],
+            "descs_html": [
+                " 变量格式: xyxcookie = '' ",
+                " 多 账 号：  @ 分割 ",
+                " 抓取 https://minigame.nagagame.net/cloudData/ver?链接里面?后全部 "
+            ],
+            "settings": [
+                {
+                    "id": "xyxcookie",
+                    "name": "CK 列表",
+                    "val": "",
+                    "type": "textarea",
+                    "autoGrow": true,
+                    "rows": 8,
+                    "desc": "xyxcookie"
+                }
+            ],
+            "author": "",
+            "repo": "",
+            "script": "",
+            "icons": [
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png",
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png"
+            ]
+        },
+        {
+            "id": "qtxck",
+            "name": "青碳行",
+            "keys": [
+                "qtxck"
+            ],
+            "descs_html": [
+                " 变量格式: qtxck = 'deviceCoding#token' ",
+                " 多 账 号：  @ 分割 ",
+                " 抓取 carbon.lcago.cn  "
+            ],
+            "settings": [
+                {
+                    "id": "qtxck",
+                    "name": "CK 列表",
+                    "val": "",
+                    "type": "textarea",
+                    "autoGrow": true,
+                    "rows": 8,
+                    "desc": "qtxck"
+                }
+            ],
+            "author": "",
+            "repo": "",
+            "script": "",
+            "icons": [
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png",
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png"
+            ]
+        },
+        {
+            "id": "mt_token",
+            "name": "萌推wx小程序",
+            "keys": [
+                "mt_token"
+            ],
+            "descs_html": [
+                " 变量格式:  mt_token = 'X-Token' ",
+                " 多 账 号：  @ 分割 ",
+                " 抓取 api.mengtuiapp.com 任意一个hd里面的X-Token "
+            ],
+            "settings": [
+                {
+                    "id": "mt_token",
+                    "name": "CK 列表",
+                    "val": "",
+                    "type": "textarea",
+                    "autoGrow": true,
+                    "rows": 8,
+                    "desc": "mt_token"
+                }
+            ],
+            "author": "",
+            "repo": "",
+            "script": "",
+            "icons": [
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png",
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png"
+            ]
+        }
+    ]
+}
