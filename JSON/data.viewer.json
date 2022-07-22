@@ -1136,6 +1136,36 @@
                 "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png",
                 "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png"
             ]
+        },
+        {
+            "id": "tkzxbx-leaf",
+            "name": "泰康在线保险 wx",
+            "keys": [
+                "tkzxbxCookie"
+            ],
+            "descs_html": [
+                " 格式: tkzxbxCookie = 'unionid' ",
+                " 账号: 换行 分割 ",
+                " 抓取: https://m.tk.cn/wechat_item/rest/xcx/login 的 响应body 的 unionid "
+            ],
+            "settings": [
+                {
+                    "id": "tkzxbxCookie",
+                    "name": "tkzxbxCookie",
+                    "val": "",
+                    "type": "textarea",
+                    "autoGrow": true,
+                    "rows": 8,
+                    "desc": ""
+                }
+            ],
+            "author": "",
+            "repo": "",
+            "script": "",
+            "icons": [
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png",
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png"
+            ]
         }
     ]
 }
