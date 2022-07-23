@@ -1201,17 +1201,17 @@
             "id": "zmjk-liuqi",
             "name": "姿美健康",
             "keys": [
-                "mzjk_token"
+                "zmjk_token"
             ],
             "descs_html": [
-                " 格式: mzjk_token = 'myjk-token' ",
+                " 格式: zmjk_token = 'myjk-token' ",
                 " 账号: @ 分割 ",
                 " 抓取: jk-agw-m.simeitol.com 的 myjk-token "
             ],
             "settings": [
                 {
-                    "id": "mzjk_token",
-                    "name": "mzjk_token",
+                    "id": "zmjk_token",
+                    "name": "zmjk_token",
                     "val": "",
                     "type": "textarea",
                     "autoGrow": true,
