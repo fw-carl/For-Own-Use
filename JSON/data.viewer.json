@@ -1266,6 +1266,36 @@
                 "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png",
                 "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png"
             ]
+        },
+        {
+            "id": "jmt-p",
+            "name": "假设=美团",
+            "keys": [
+                "jmtcookie"
+            ],
+            "descs_html": [
+                " 格式: jmtcookie = 'unionid=*****&token=*****' ",
+                " 账号: @ 分割 ",
+                " 抓取: mt.wpbfntt.cn 的 token 和 unionid 值 "
+            ],
+            "settings": [
+                {
+                    "id": "jmtcookie",
+                    "name": "jmtcookie",
+                    "val": "",
+                    "type": "textarea",
+                    "autoGrow": true,
+                    "rows": 6,
+                    "desc": ""
+                }
+            ],
+            "author": "",
+            "repo": "",
+            "script": "",
+            "icons": [
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png",
+                "https://raw.githubusercontent.com/fw-carl/For-Own-Use/master/PIC/loon-icon/loon.png"
+            ]
         }
     ]
 }
